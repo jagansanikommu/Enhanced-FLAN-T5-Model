@@ -15,6 +15,11 @@ This project delves into the world of Generative AI, focusing on enhancing dialo
 
 ## 📋 Project Structure
 
+/code: Contains the Python code for fine-tuning and evaluation.
+/data: Holds the datasets used for training and testing.
+/results: Stores the output summaries and evaluation metrics.
+/notebooks: Jupyter notebooks showcasing code execution and analysis.
+
 ## 📈 Results and Findings
 
 - Demonstrated enhanced summarization through fine-tuning.
